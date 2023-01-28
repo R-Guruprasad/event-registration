@@ -157,7 +157,8 @@ color: #000000;
 border: 1px solid #000000;
 ```
 ## OUTPUT:
-
+![output](./eventreg.png)
 
 ## Result:
+Hence the UX design for the Event Registration webpage is completed successfully.
 
